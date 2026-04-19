@@ -191,6 +191,15 @@ metadata:
 5. 是否避免了空泛、过度拔高和模板化表达
 6. 是否让结果可以直接被继续使用
 
+## 配套文件
+
+如果需要查看更多说明，可参考同目录下的配套文件：
+
+- `README.md`：Skill 简介和目录说明
+- `references/output-categories.md`：输出类别说明
+- `references/quality-checklist.md`：质量检查清单
+- `assets/sample-outputs.md`：输入输出示例
+
 ## 成功标准
 
 这个 Skill 成功时，用户会感受到：
